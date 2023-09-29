@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node --loader ts-node/esm Factory/Factory-exercise/index.ts",
+    "start-resolved": "node --loader ts-node/esm Factory/Factory-resolved/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
